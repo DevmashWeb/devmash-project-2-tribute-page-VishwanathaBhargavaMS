@@ -1,0 +1,81 @@
+h1{
+	width: 400px;
+	padding: 30px 40px;
+	margin: 10px auto;
+	background-color: orange;
+	font-family: Baskerville Old Face, Berlin Sans FB, Arial Rounded MT Bold;
+	color: white;
+}
+h3{
+	background-color: green;
+	width: 400px;
+	padding: 35px 40px;
+	margin: 10px auto;
+	font-family: Baskerville Old Face, Berlin Sans FB, Arial Rounded MT Bold;
+	color: white;
+}
+#main{
+    margin: 5px 150px 10px 100px;
+    display: inline-block;
+}
+#main img{
+	display: block;
+	height: 80px;
+	width: 80px;
+	margin: 0 auto;
+}
+#sthamba{
+    display: inline-block;
+    margin: 10px 100px 30px 5px;
+}
+#links a:nth-child(1){
+	background-color: orange;
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	font-family: arial;
+    border: 10px orange solid;
+}
+#links a:nth-child(2){
+	text-decoration: none;
+	font-weight: bold;
+	color: blue;
+	font-family: arial;
+    padding: 10px;
+}
+#links a:nth-child(3){
+	background-color: green;
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	font-family: arial;
+    border: 10px green solid;
+}
+#body a{
+    font-family: arial;
+    text-decoration: none;
+    background: red;
+    color: white;
+    font-size: 30px;
+}
+#body{border: 2px solid black}
+#body img{
+    height: 200px;
+	width: 250px;
+    display: inline-block;
+    padding: 0px;
+    margin: auto;
+    border: 15px ridge chocolate;
+}
+.AbtPic p{
+    display: inline-block;
+    width: 420px;
+    margin: 0px auto;
+    font-family: cursive;
+}
+ #header a{
+    font-family: arial;
+    color: white;
+    background: crimson;
+    text-decoration: none;
+}
